@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1746495983.61889 "c:/Users/HP/Documents/1er année GM/Conception du produit/projet_conception/rapport_projet_conception.tex" "rapport_projet_conception.pdf" "rapport_projet_conception" 1746495998.62514 0
+["pdflatex"] 1746497573.68055 "c:/Users/HP/Documents/1er année GM/Conception du produit/projet_conception/rapport_projet_conception.tex" "rapport_projet_conception.pdf" "rapport_projet_conception" 1746497594.52775 0
   "C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1746495698 83945 ac50c7d48cf90009e98682356c799067 ""
   "C:/Users/HP/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1742698636 24208622 a27455e108d63a86184b23bc047cf422 ""
   "D:/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -113,10 +113,11 @@
   "D:/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "D:/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "D:/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/HP/Documents/1er année GM/Conception du produit/projet_conception/rapport_projet_conception.tex" 1746495973 53930 a6a72252e222141a6a7cc58169123a1d ""
+  "c:/Users/HP/Documents/1er année GM/Conception du produit/projet_conception/rapport_projet_conception.tex" 1746497570 55536 fa58c5ff3abae42c0169df26b85822a2 ""
   "images/avantages_drones.png" 1746491567 204800 fb8da798c62ab7b9280967a2c30b84ea ""
   "images/bete_a_corne_surveillance.png" 1746488713 118964 21408b52d2ea1a3d9c976c6f1821c3ad ""
   "images/bossages_trous_capot.png" 1746477749 74542 bdabbb9648dcd3c8c8f5456f6452e225 ""
+  "images/chassis_central_final.png" 1745714799 218283 ba2aab924458a933e52d9ef2658da576 ""
   "images/chassis_central_plan.png" 1746485169 113381 0d4043424b9527714086aaa563db3777 ""
   "images/composantes_drone_exemple.png" 1746490238 453203 4e94ba9875aff44f2de63671e0e105f6 ""
   "images/conge_chassis.png" 1745710505 261783 af07e514e6dd7dc767c9cea08eab372c ""
@@ -132,6 +133,7 @@
   "images/exemple_cotation_fonctionnelle.png" 1746483995 98486 dd8aa529d1818552cc1a690a009c4995 ""
   "images/extrusion_chassis_central.png" 1745709593 288313 4385857e0b0a1bd448d6722ff663a2ec ""
   "images/extrusion_evidement_support.png" 1746464502 285518 d255c65f223ed530c82494f82f2f39bd ""
+  "images/extrusion_tube.png" 1745715500 333567 7db9ca3ac56e2f51b452ea29fea2710d ""
   "images/filetage_tube_m8.png" 1746456557 401637 0ffcfb752442f176428122d0490d1bf7 ""
   "images/helice_drone.png" 1745708695 159520 457711ad57f12ae16feab8240045336a ""
   "images/logement_couvercle.png" 1745713547 479636 d7c9c278d4ee4455a5c26d8cfd8eb4e8 ""
@@ -158,10 +160,10 @@
   "images/vis_iso_m1_6x16.png" 1746479737 75631 816901db9f5de96a922e6489c8ed0159 ""
   "images/vis_iso_m2x5.png" 1746479592 90166 74ed6eab7d9ffdb7b59eda72bcba362e ""
   "images/vue_eclatee_drone.png" 1746483072 112802 96eb7d5098955ab5bd74484fe872da57 ""
-  "rapport_projet_conception.aux" 1746495997 21048 eaeaa1024d44bebe731ea51e3a829426 "pdflatex"
-  "rapport_projet_conception.out" 1746495998 7237 2177d69acf95a43fd237fba9177ae0db "pdflatex"
-  "rapport_projet_conception.tex" 1746495973 53930 a6a72252e222141a6a7cc58169123a1d ""
-  "rapport_projet_conception.toc" 1746495998 3485 08e260cf5bf1fb12a55dfecdb0ceb228 "pdflatex"
+  "rapport_projet_conception.aux" 1746497593 21539 34f677f01ac01ff237f5acd4961cc94e "pdflatex"
+  "rapport_projet_conception.out" 1746497593 7237 2177d69acf95a43fd237fba9177ae0db "pdflatex"
+  "rapport_projet_conception.tex" 1746497570 55536 fa58c5ff3abae42c0169df26b85822a2 ""
+  "rapport_projet_conception.toc" 1746497593 3485 752b836516eb9c0415ea52c860177421 "pdflatex"
   (generated)
   "rapport_projet_conception.aux"
   "rapport_projet_conception.log"
